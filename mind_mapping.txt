@@ -1,0 +1,24 @@
+== Done ==
+01 - Create JSON object for the questions
+02 - Start creating HTML markup
+03 - Add dummy data
+04 - Create the styling
+====================================================
+== In Progress ==
+05 - Fetch number of question form the JSON object
+06 - Show questions count and catigory
+07 - Show the number of bullets depend on quesiton count
+08 - Set the number for the write and wrong answers
+09 - Create a timer
+10 - Fetch the questions from the JSON object
+11 - Show first quesiton
+12 - Check answer then hide quesiton then show next question
+13 - If time is over, mark the quesiton as wrong and show next quesiton
+14 - Add class on bullet after answering the question 
+15 - If questions finished, show results
+====================================================
+====================================================
+Ideas: 
+- Many JSON objects and chose catigory
+- Add many questions and choose 10 randomly 
+- Randomize answers
